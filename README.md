@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps and MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/collins987](https://github.com/collins987)
 
