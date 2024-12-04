@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collins987&label=Profile%20views&color=0e75b6&style=flat" alt="collins987" /> </p>
 
-- 🌱 I’m currently learning **Full stack development using mern and CI/CD pipelines**
+- 🌱 I’m currently learning **Full stack development using MERN Stack and CI/CD pipelines**
 
-- 👯 I’m looking to collaborate on **cloud native projects**
+- 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
