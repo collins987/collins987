@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/collins987](https://github.com/collins987)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevSecOps**
 
 - 📫 How to reach me **vincentcollins690@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vincent-collins-91b78a195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-collins-91b78a195/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vincentcollins1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-collins-91b78a195/" height="30" width="40" /></a>
 <a href="https://instagram.com/_vin.nyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vin.nyy/" height="30" width="40" /></a>
 </p>
 
