@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Collins</h1>
-<h3 align="center">A passionate DevOps Engineer from Kenya</h3>
+<h3 align="center">A passionate DevSecOps Engineer from Kenya</h3>
 <img align="Right" alt="DevOps" width="400" height="270" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0">
 <img align="center" alt="Fullstack Developer" width="400" height="270" src="https://simplecoding.dev/assets/devops.gif">
 
